@@ -1,0 +1,25 @@
+{
+  "name": "heroku",
+  "version": "0.1.0",
+  "description": "prise en main",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "node serveur.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoMarty/heroku.git"
+  },
+  "dependencies":{
+      "express": "4.15.2"
+  },
+  "keywords": [
+    "toto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoMarty/heroku/issues"
+  },
+  "homepage": "https://github.com/BrunoMarty/heroku#readme"
+}
